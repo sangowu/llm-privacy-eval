@@ -23,7 +23,7 @@ All metrics are computed on **synthetic medical data** – no real patient data 
 - `lora_rag_top_k_summary.json`  
   Top-K re-ID metrics for LoRA + RAG.
 
-## How to read the metrics (short)
+## How to read the metrics
 
 - **F1** – overall field-level accuracy of the JSON output. Higher = model copies the target fields more correctly.
 - **Exact match** – percentage of records where all evaluated fields are exactly the same as the reference.
