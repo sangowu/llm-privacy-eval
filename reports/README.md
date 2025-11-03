@@ -1,6 +1,6 @@
 # Evaluation Reports
 
-This folder contains machine-readable JSON reports for different model settings.
+This folder contains machine-readable JSON reports for different model settings. All metrics are computed on synthetic medical data; no real patient data is included.
 
 ## Files
 
